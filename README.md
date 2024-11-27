@@ -32,7 +32,8 @@
 
 ## 📊 GitHub Stats
 
-![Jay Pandya's GitHub Stats](https://via.placeholder.com/600x300?text=GitHub+Stats+Here)
+![Jay Pandya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1JAYPANDYA1&show_icons=true&theme=radical)
+
 
 - 🌟 Total Stars Earned: **1**
 - 🔄 Total Commits (2024): **308**
