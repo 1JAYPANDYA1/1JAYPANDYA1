@@ -39,8 +39,8 @@
 ---
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/<your-linkedin-profile>/)
-- [Instagram](https://www.instagram.com/<your-instagram-profile>/)
----
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/<your-linkedin-profile>/)
+[<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>](https://www.instagram.com/<your-instagram-profile>/)
 
+---
 > Feel free to customize the placeholders with your own images, stats, or links as needed!
