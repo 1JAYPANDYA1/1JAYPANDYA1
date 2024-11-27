@@ -33,6 +33,7 @@
 ## 📊 GitHub Stats
 
 ![Jay Pandya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1JAYPANDYA1&show_icons=true&theme=radical)
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=1JAYPANDYA1&theme=radical)
 
 
 - 🌟 Total Stars Earned: **1**
