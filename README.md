@@ -36,13 +36,11 @@
 ![GitHub Streak Stats](https://streak-stats.demolab.com?user=1JAYPANDYA1&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1JAYPANDYA1&layout=compact&theme=radical)
 
+---
+## 🌐 Connect with Me
 
-- 🌟 Total Stars Earned: **1**
-- 🔄 Total Commits (2024): **308**
-- 🔧 Total PRs: **67**
-- 🐛 Total Issues: **0**
-- 📈 Contributed to (last year): **3**
-
+- [LinkedIn](https://www.linkedin.com/in/<your-linkedin-profile>/)
+- [Instagram](https://www.instagram.com/<your-instagram-profile>/)
 ---
 
 > Feel free to customize the placeholders with your own images, stats, or links as needed!
