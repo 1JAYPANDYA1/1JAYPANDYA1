@@ -1,6 +1,6 @@
 # Hi there, I'm Jay Pandya 👋
 
-**A Student Pursuing BTech in Information Technology**
+**A Student Pursuing BE in Information Technology**
 
 ![Profile Banner](https://via.placeholder.com/800x400?text=Your+Image+Here)
 
