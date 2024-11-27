@@ -37,7 +37,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1JAYPANDYA1&layout=compact&theme=radical)
 
 ---
-## 🌐 Connect with Me
+## 🤝 Connect with Me
 
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/<your-linkedin-profile>/)
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>](https://www.instagram.com/<your-instagram-profile>/)
