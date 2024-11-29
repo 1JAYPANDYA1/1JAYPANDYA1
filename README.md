@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🌱 I'm currently Working in **Web Development**.
-- 📝 I regularly write articles on [Quora](https://www.quora.com).
+- 📝 I am active on LinkedIn and regularly update my profile with the latest trends, technologies, and insights from the tech industry. I strive to stay informed and connected, sharing knowledge and engaging with professionals to foster growth and learning in the ever-evolving tech landscape.
 - 💬 Ask me anything about the **tech stack mentioned below**.
 - 📧 Reach me at **jaypandya1911@gmail.com**.
 - 📄 Check out my [Resume](#).
