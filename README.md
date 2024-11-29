@@ -13,8 +13,6 @@
 - 💬 Ask me anything about the **tech stack mentioned below**.
 - 📧 Reach me at **jaypandya1911@gmail.com**.
 - 📄 Check out my [Resume](#).
-- ⚡ Extra Interests: **Finance, Marketing, Sales, and Management**.
-
 ---
 ## 🛠 Tech Stack
 
