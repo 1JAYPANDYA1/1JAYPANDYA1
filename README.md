@@ -13,7 +13,7 @@
 - 📝 I am active on LinkedIn and regularly update my profile with the latest trends, technologies, and insights from the tech industry.
 - 💬 Ask me anything about the **tech stack mentioned below**.
 - 📧 Reach me at **jaypandya1911@gmail.com**.
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1Vu8iyx8193VWg5XdCgfbNsbrRO99b_QA/view?usp=drivesdk)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1WaLYTAROHSvkj8bd-ZwWcVH2x5S2SJZS/view?usp=drivesdk)
 
 ---
 
