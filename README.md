@@ -1,4 +1,4 @@
-# Hi there, I'm Jay Pandya 👋
+# Hi There, I'm Jay Pandya 👋
 
 **Software Developer Intern At Ace Analytics**  
 **Pursuing BE In Information Technology**
