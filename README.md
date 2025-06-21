@@ -45,10 +45,14 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
-### ☁️ Other Tools & Skills
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+### ☁️ Cloud / DevOps Tools
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+### 📚 Other Skills
 ![Data Structures & Algorithms](https://img.shields.io/badge/-Data_Structures_&_Algorithms-FF6F61?style=flat&logo=codeforces&logoColor=white)
 
 ---
