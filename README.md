@@ -38,48 +38,48 @@ Let’s connect and create reliable systems that make a difference 🚀
 ## 🛠 Tech Stack  
 
 ### 💻 Languages  
-![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
 
 ---
 
 ### 🔧 Frameworks  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) 
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) 
 
 ---
 
 ### 🗄️ Databases  
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
 
 ---
 
 ### 🧩 ORM / Data Access  
-![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?logo=dotnet&logoColor=white)  
-![Dapper](https://img.shields.io/badge/-Dapper-00599C?logo=dotnet&logoColor=white)  
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?logo=dotnet&logoColor=white) 
+![Dapper](https://img.shields.io/badge/-Dapper-00599C?logo=dotnet&logoColor=white) 
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) 
 
 ---
 
 ### ⚡ Real-Time Communication  
-![SignalR](https://img.shields.io/badge/-SignalR-512BD4?logo=dotnet&logoColor=white)  
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)  
+![SignalR](https://img.shields.io/badge/-SignalR-512BD4?logo=dotnet&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white) 
 
 ---
 
 ### ☁️ Cloud / DevOps Tools  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 
 ---
