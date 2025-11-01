@@ -63,7 +63,7 @@ Let’s connect and create reliable systems that make a difference 🚀
 
 ---
 
-### 🧩 ORM / Data Access  
+### 🧩 ORMS
 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?logo=dotnet&logoColor=white) 
 ![Dapper](https://img.shields.io/badge/-Dapper-00599C?logo=dotnet&logoColor=white) 
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) 
