@@ -9,9 +9,27 @@
 
 ## 🚀 About Me
 
-- 🌱 I'm currently working in **Web Development**.
-- 📝 I am active on LinkedIn and regularly update my profile with the latest trends, technologies, and insights from the tech industry.
-- 💬 Ask me anything about the **tech stack mentioned below**.
+💻 Backend Developer | Building Scalable, Secure, and High-Performance Systems
+
+I am a skilled Backend Developer passionate about designing and developing scalable, efficient, and reliable server-side solutions. With hands-on expertise in .NET, Java, Node.js, and Pyhton, I specialize in building robust APIs, optimizing databases, and architecting systems that power seamless digital experiences.
+
+🔑 Core Skills:
+
+Backend Architecture & API Development
+
+.NET (C#, ASP.NET Core) & Node.js (Express.js)
+
+Database Design (PostgreSQL, SQL Server, MongoDB)
+
+Authentication, Authorization & Security Best Practices
+
+Scalable Application Design
+
+Real-Time Communication (WebSockets, SignalR)
+
+Driven by a deep focus on performance and clean architecture, I aim to build backend systems that are secure, maintainable, and ready to scale. I’m always eager to collaborate on impactful projects that push technology forward.
+
+Let’s connect and create reliable systems that make a difference 🚀
 - 📧 Reach me at **jaypandya1911@gmail.com**.
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1Xku0ZmzD5fQAKQH8iHmsJG3sn-h9Udbw/view?usp=drivesdk)
 
